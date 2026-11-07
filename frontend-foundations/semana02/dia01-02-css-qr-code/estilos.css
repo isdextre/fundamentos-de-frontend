@@ -1,6 +1,12 @@
 body {
     background-color: #c2e9f8;
     font-size: 15px;
+
+    /* Flexbox */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 
